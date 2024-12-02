@@ -101,7 +101,7 @@ $$
 4. On the 'Hosted Function' tab, select the function we created above: `your_catalog.default.deidentify_string`
 5. Test out your prototype Agent with a prompt like:
 
-> "Please deidentify the following text: “Hi, this is Johnathan Smith, and I’m calling because I noticed a strange charge on my checking account. My account number is 3478-2215-9876, and the charge is for $250.50 to a store I don’t recognize. It posted yesterday, November 13th. I live at 123 Maple Avenue, Springfield, IL 62704, and my phone number is 555-123-4567. Can you help me figure out what’s going on? Oh, and just to confirm, my email is john.smith@example.com, if you need to send me any updates. Thank you!”
+> Please deidentify the following text: “Hi, this is Johnathan Smith, and I’m calling because I noticed a strange charge on my checking account. My account number is 3478-2215-9876, and the charge is for $250.50 to a store I don’t recognize. It posted yesterday, November 13th. I live at 123 Maple Avenue, Springfield, IL 62704, and my phone number is 555-123-4567. Can you help me figure out what’s going on? Oh, and just to confirm, my email is john.smith@example.com, if you need to send me any updates. Thank you!”
 
 ### Export and deploy your new Agent
 
