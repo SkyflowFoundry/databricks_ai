@@ -42,9 +42,9 @@ First let's examine the Python code for the function itself. To use this in your
  sys.stdout = redirected_output
 
  # TODO: replace with your Vault ID from Skyflow
- vault_id = "q7248cbd0b6f484185b277a4aea9098f"
+ vault_id = "mb551c242d844c1e912e51cbddb9245e"
  # TODO: replace 'cluster' with the cluster identifier from your Skyflow Vault URL
- api_url = "https://cluster.vault.skyflowapis.dev/v1/detect/deidentify/string"
+ api_url = "https://ebfc9bee4242.vault.skyflowapis.com/v1/detect/deidentify/string"
  headers = {
      "Authorization": f"Bearer {bearer_token}",
      "Content-Type": "application/json",
