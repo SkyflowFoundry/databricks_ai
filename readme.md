@@ -3,7 +3,7 @@
 
 This repository contains a collection of examples demonstrating how Skyflow's Data Privacy Platform can ensure safe handling of sensitive private data in, on, and for a Databricks Lakehouse.
 
-![screenshot of AI agent running a deidentify call](https://github.com/SkyflowFoundry/databricks_ai/blob/main/assets/agent_playground_full.png)
+![screenshot of AI agent running a deidentify call](/assets/agent_playground_full.png)
 
 Note: these examples are not an officially-supported product or recommended for production deployment without further review, testing, and hardening. Use with caution, this is sample code only.
 
