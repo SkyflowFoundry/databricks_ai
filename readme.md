@@ -106,3 +106,7 @@ $$
 ### Export and deploy your new Agent
 
 Databricks makes it easy to export and deploy your new Agent. Follow the [instructions from Databricks](https://docs.databricks.com/en/generative-ai/agent-framework/create-agent.html#export-and-deploy-ai-playground-agents).
+
+## Learn more
+
+To learn more about Skyflow Detect, the API for protecting privacy in unstructured data, visit [docs.skyflow.com](https://docs.skyflow.com/detect-overview/).
