@@ -1,5 +1,5 @@
 
-# Skyflow for DataBricks AI Examples
+# Skyflow for Databricks: AI examples
 
 This repository contains a collection of examples demonstrating how Skyflow's Data Privacy Platform can ensure safe handling of sensitive private data in, on, and for a Databricks Lakehouse.
 
